@@ -3,7 +3,10 @@ sample text?
 more sample text.
 
 and some more sample text for the hell of it.
+<<<<<<< HEAD
 
 change to practice command line updates
 
 sample text de nuovo
+=======
+>>>>>>> parent of 4e46f75... here's my message on the command line
